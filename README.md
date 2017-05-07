@@ -1,2 +1,3 @@
 # apweb-remix
-Copy of APWeb, for experimental informatic enhancement
+
+A copy of APWeb, for experimental informatic enhancements.

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# recursively download original site from http://www.mobot.org/MOBOT/Research/APweb
+wget --mirror --no-parent --convert-links --page-requisites --no-directories http://www.mobot.org/MOBOT/Research/APweb
